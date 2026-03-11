@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+anthropic
+slowapi
+gspread
+google-auth
