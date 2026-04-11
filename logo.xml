@@ -1,0 +1,17 @@
+<svg width="400" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="300" fill="#0d0d1a"/>
+  
+  <g transform="translate(240, 60)">
+    <rect x="0" y="60" width="28" height="40" rx="3" fill="#C9A84C" opacity="0.5"/>
+    <rect x="36" y="35" width="28" height="65" rx="3" fill="#C9A84C" opacity="0.75"/>
+    <rect x="72" y="10" width="28" height="90" rx="3" fill="#C9A84C"/>
+    <circle cx="80" cy="6" r="5" fill="#C9A84C"/>
+    <line x1="4" y1="56" x2="80" y2="6" stroke="#C9A84C" stroke-width="2" opacity="0.6"/>
+  </g>
+
+  <text x="340" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="1">
+    <tspan fill="#ffffff">Sales</tspan><tspan fill="#C9A84C">Lab</tspan>
+  </text>
+
+  <text x="340" y="215" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#C9A84C" letter-spacing="3">INTELIGÊNCIA DE NEGÓCIO</text>
+</svg>
