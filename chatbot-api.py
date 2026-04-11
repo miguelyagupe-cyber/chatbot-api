@@ -28,7 +28,7 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://imobiliarianoporto.pt", "http://localhost", "http://127.0.0.1"],
+    allow_origins=["https://imobiliarianoporto.pt", "http://localhost", "http://localhost:8080", "http://127.0.0.1"],
     allow_methods=["POST", "GET"],
     allow_headers=["*"],
 )
